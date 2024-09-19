@@ -72,7 +72,7 @@ A collection of pictures from cool places physics has taken me.
         <div class="caption">Indian Institute of Science, Bengaluru. (2023) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/ICTP.JPG alt="Im8">
+        <img src="{{ site.baseurl }}/images/ICTP.JPG" alt="Im8">
         <div class="caption">The outdoor blackboards at ICTP, Trieste. (2024) </div>
     </div>
     <div class="gallery-item">
