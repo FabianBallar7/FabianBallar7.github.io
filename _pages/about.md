@@ -48,39 +48,39 @@ A collection of pictures from cool places physics has taken me.
         <div class="caption">A sunny winter day at Perimeter. (2023) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/DPGTalk.jpg" alt="Image 5">
+        <img src="{{ site.baseurl }}/images/DPGTalk.JPG" alt="Im2">
         <div class="caption">Giving a talk at TU Berlin. (2024) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/dpg.jpg" alt="Image 3">
+        <img src="{{ site.baseurl }}/images/dpg.JPG" alt="Im3">
         <div class="caption"> With some of my colleagues during the DPG meeting in Berlin. (2024)</div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/Krntk.jpg" alt="Image 3">
+        <img src="{{ site.baseurl }}/images/Krntk.JPG" alt="Im4">
         <div class="caption"> Honnavar, Karnataka, India  (2023)</div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/Trento.jpg" alt="Image 4">
+        <img src="{{ site.baseurl }}/images/Trento.JPG" alt="Im5">
         <div class="caption">Conference on neural quantum states. Trento, Italy (2023) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/ECT.jpg" alt="Image 6">
+        <img src="{{ site.baseurl }}/images/ECT.JPG" alt="Im6">
         <div class="caption">The view at ECT*, Trento. (2023) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/IISCBeng.jpg" alt="Image 7">
+        <img src="{{ site.baseurl }}/images/IISCBeng.JPG" alt="Im7">
         <div class="caption">Indian Institute of Science, Bengaluru. (2023) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/ICTP.jpg" alt="Image 8">
+        <img src="{{ site.baseurl }}/images/ICTP.JPG alt="Im8">
         <div class="caption">The outdoor blackboards at ICTP, Trieste. (2024) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/SAIFR.jpg" alt="Image 9">
+        <img src="{{ site.baseurl }}/images/SAIFR.JPG" alt="Im9">
         <div class="caption">ICTP-SAIFR, Sao Paulo, Brazil. (2019) </div>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/images/SAIFR2.jpg" alt="Image 10">
+        <img src="{{ site.baseurl }}/images/SAIFR2.JPG" alt="Im10">
         <div class="caption">Journeys into theoretical physics, Sao Paulo. (2019) </div>
     </div>
 </div>
