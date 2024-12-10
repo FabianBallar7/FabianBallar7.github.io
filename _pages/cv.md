@@ -50,10 +50,11 @@ Publication
 ](https://scipost.org/10.21468/SciPostPhys.13.2.037)
   * [Simplicity of mean-field theories in neural quantum states
 ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023261)
+  * [Quantum hard disks on a lattice]([https://arxiv.org/abs/2311.16240](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L220303))
 
 
 * Under review
-  * [Quantum hard disks on a lattice](https://arxiv.org/abs/2311.16240)
+  
 
 Teaching experience
 ======
