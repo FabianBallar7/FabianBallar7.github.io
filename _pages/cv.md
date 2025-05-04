@@ -54,7 +54,10 @@ Publication
 
 
 * Under review
-  
+  * [Probing prethermal nonergodicity through measurement outcomes of monitored quantum dynamics
+](https://arxiv.org/pdf/2503.11782)
+  * [Dynamics of defects and interfaces for interacting quantum hard disks
+](https://arxiv.org/pdf/2503.13664)
 
 Teaching experience
 ======
