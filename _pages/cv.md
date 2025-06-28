@@ -58,6 +58,8 @@ Publication
 ](https://arxiv.org/pdf/2503.11782)
   * [Dynamics of defects and interfaces for interacting quantum hard disks
 ](https://arxiv.org/pdf/2503.13664)
+  * [Nonstabilizerness and Error Resilience in Noisy Quantum Circuits
+](https://arxiv.org/pdf/2506.18976)
 
 Teaching experience
 ======
