@@ -51,15 +51,17 @@ Publication
   * [Simplicity of mean-field theories in neural quantum states
 ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023261)
   * [Quantum hard disks on a lattice](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L220303)
+  * [Probing prethermal nonergodicity through measurement outcomes of monitored quantum dynamics
+](https://journals.aps.org/prb/abstract/10.1103/v4xv-74s7)
+  * [Dynamics of defects and interfaces for interacting quantum hard disks
+](https://journals.aps.org/prb/abstract/10.1103/gnqx-fh59)
 
 
 * Under review
-  * [Probing prethermal nonergodicity through measurement outcomes of monitored quantum dynamics
-](https://arxiv.org/pdf/2503.11782)
-  * [Dynamics of defects and interfaces for interacting quantum hard disks
-](https://arxiv.org/pdf/2503.13664)
   * [Nonstabilizerness and Error Resilience in Noisy Quantum Circuits
 ](https://arxiv.org/pdf/2506.18976)
+  * [Quantum Circuits as a Dynamical Resource to Learn Nonequilibrium Long-Range Order
+](https://arxiv.org/pdf/2602.16788)
 
 Teaching experience
 ======
