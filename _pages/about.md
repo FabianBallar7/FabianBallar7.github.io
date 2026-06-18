@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
- image: /Header_pict.JPG
+ image: /Header_picture.jpg
 ---
 
 I'm Fabian Ballar Trigueros, a Ph.D. student in Markus Heyl’s group at the University of Augsburg. My research lies at the interface of quantum many-body physics, quantum information, and computational physics.
