@@ -46,20 +46,20 @@ Education
 Publication
 ======
 * Peer-reviewed
-  * [Krylov complexity of many-body localization: Operator localization in Krylov basis
+  * [Krylov complexity of many-body localization: Operator localization in Krylov basis (SciPost Phys)
 ](https://scipost.org/10.21468/SciPostPhys.13.2.037)
-  * [Simplicity of mean-field theories in neural quantum states
+  * [Simplicity of mean-field theories in neural quantum states (PRR)
 ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023261)
-  * [Quantum hard disks on a lattice](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L220303)
-  * [Probing prethermal nonergodicity through measurement outcomes of monitored quantum dynamics
+  * [Quantum hard disks on a lattice (PRB)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L220303)
+  * [Probing prethermal nonergodicity through measurement outcomes of monitored quantum dynamics (PRB)
 ](https://journals.aps.org/prb/abstract/10.1103/v4xv-74s7)
-  * [Dynamics of defects and interfaces for interacting quantum hard disks
+  * [Dynamics of defects and interfaces for interacting quantum hard disks (PRB)
 ](https://journals.aps.org/prb/abstract/10.1103/gnqx-fh59)
+  * [Nonstabilizerness and Error Resilience in Noisy Quantum Circuits (PRL)
+](https://journals.aps.org/prl/abstract/10.1103/cbjz-x45n)
 
 
 * Under review
-  * [Nonstabilizerness and Error Resilience in Noisy Quantum Circuits
-](https://arxiv.org/pdf/2506.18976)
   * [Quantum Circuits as a Dynamical Resource to Learn Nonequilibrium Long-Range Order
 ](https://arxiv.org/pdf/2602.16788)
 
