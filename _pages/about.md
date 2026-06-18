@@ -9,22 +9,34 @@ header:
  image: /Header_pict.JPG
 ---
 
-I'm Fabian Ballar Trigueros, a Ph.D. student in Markus Heyl’s group at the University of Augsburg. My research focuses on using computational techniques to probe quantum many-body systems. I'm particularly passionate about the interface between quantum matter and quantum information, which drives much of my work. Over the years, I’ve developed a strong foundation in quantum simulation techniques like neural quantum states, Krylov methods, and tensor networks. Thanks to these tools, I can explore and uncover new insights into the behavior of complex quantum systems.  
+I'm Fabian Ballar Trigueros, a Ph.D. student in Markus Heyl’s group at the University of Augsburg. My research lies at the interface of quantum many-body physics, quantum information, and computational physics.
+
+I am interested in understanding how complexity emerges in quantum systems, how it can be represented efficiently, and when it becomes a useful resource. Many quantum systems possess special structures that make them tractable: locality, symmetry, integrability, Gaussianity, stabilizer structure, or efficient variational descriptions. At the same time, the richness of quantum many-body physics often comes from the gradual breakdown, deformation, or controlled violation of these structures.
+
+A central goal of my work is to understand this boundary. What makes a quantum state easy or hard to represent? Which resources are responsible for the transition from classically simulable dynamics to genuinely complex quantum behavior? How can ideas from quantum information help us characterize phases of matter, nonequilibrium dynamics, and the capabilities of quantum devices?
+
+To address these questions, I use a combination of analytical and computational tools, including neural quantum states, tensor networks, Krylov methods, exact diagonalization, variational circuits, and concepts from quantum information theory. My work aims to connect concrete many-body models with broader organizing principles such as learnability, simulability, randomness, and quantum resources.
 
 <br>
 
-## My Current Research
+## Research Roadmap
 
-🔱 My research focuses on three main prongs:
+My current research is organized around three broad themes:
 
-### Neural Quantum State Complexity
-Neural networks have emerged as powerful tools for encoding quantum many-body states, demonstrating remarkable progress in representing ground states and simulating dynamics. However, a critical gap in our understanding remains: identifying which quantum states pose significant challenges for neural network learning. This research aims to shed light on this issue, exploring the fundamental limitations and advantages of Neural Quantum States.
+### Ansatz Complexity and Learnability
+Variational descriptions are among the most powerful tools for studying quantum many-body systems. Tensor networks, neural quantum states, and related ansätze allow us to compress quantum states into tractable representations. However, their success raises a fundamental question: what makes a quantum state easy or hard to learn?
 
-### Non-Ergodic Dynamics
-The concept of thermalization, or its absence, in quantum many-body systems has been a subject of intense study for several decades. This research prong focuses on exploring quantum dynamics in systems that exhibit non-ergodic behavior, with a particular emphasis on those realizable in current Rydberg atom platforms. By focusing on Rydberg atom platforms, which offer exceptional control and scalability, this research aims to bridge the gap between theoretical predictions and experimental observations of non-ergodic quantum dynamics. 
+In this direction, I am interested in the principles that determine the expressive power of variational ansätze. This includes the role of entanglement, correlations, symmetries, sign structures, and physically motivated inductive biases. More broadly, I aim to understand not only how to build better ansätze, but also what their successes and failures reveal about the structure of quantum matter.
 
-### Adaptive Quantum Circuits
-This research explores the concept of stabilizing long-range order through adaptive quantum circuits. Drawing inspiration from quantum matter, we aim to design and implement quantum circuits that guide quantum states towards novel ensembles typically unexplored in traditional setups. Our primary focus is on generating spontaneous symmetry breaking through carefully controlled dynamics. This approach challenges the conventional understanding of thermodynamics in quantum systems, potentially uncovering new pathways for creating and manipulating ordered states in non-equilibrium conditions.
+### Quantum Resources and the Breakdown of Simulability
+Many important classes of quantum systems are efficiently describable because they possess special algebraic or dynamical structure. Stabilizer states, Gaussian fermionic systems, and integrable models are examples where complexity is strongly constrained.
+
+I am interested in what happens when these structures are perturbed or enriched. Resources such as magic, non-Gaussianity, and entanglement provide a language for understanding how quantum systems move beyond efficiently simulable regimes. This perspective connects questions of classical simulation, quantum advantage, and many-body complexity and offers a way to study how small ingredients can qualitatively change the behavior of quantum dynamics.
+
+### Unitary Designs, Error-Resilience, and Quantum Information
+Randomness is a powerful organizing principle in quantum many-body physics and quantum information. It appears in thermalization, scrambling, unitary designs, quantum error correction, and encoding-decoding protocols. At the same time, physically relevant dynamics are rarely fully random; they often interpolate between structured evolution and generic behavior.
+
+In this direction, I study how randomness emerges dynamically, how structured circuits approach generic Haar-random-like behavior, and how these effects affect information storage, error resilience, and the generation of complex quantum states. More broadly, I am interested in using quantum information ideas to understand nonequilibrium dynamics and in using many-body physics to design new quantum information protocols.
 
 <br>
 
