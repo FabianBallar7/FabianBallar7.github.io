@@ -60,6 +60,8 @@ Publication
 
 
 * Under review
+  * [Unitary Designs from Doped Matchgate Circuits
+](https://arxiv.org/pdf/2606.23800)
   * [Quantum Circuits as a Dynamical Resource to Learn Nonequilibrium Long-Range Order
 ](https://arxiv.org/pdf/2602.16788)
 
